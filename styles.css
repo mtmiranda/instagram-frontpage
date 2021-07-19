@@ -149,11 +149,6 @@ a {
     width: 150px;
 }
 
-.main-content__apps-wrapper__apps a>img {
-    margin-left: 10px;
-}
-
-
 .main-content__apps-wrapper>p:nth-child(1) {
     text-align: center;
     font-weight: bold;
